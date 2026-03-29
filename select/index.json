@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "僕はもういない",
+  "base_artist": "ぼくのりりっくのぼうよみ",
+  "createdAt": "2026-03-29T15:31:51.282332Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕はもういない",
+      "artist": "ぼくのりりっくのぼうよみ",
+      "has_synced": true,
+      "path": "select/01_僕はもういない_ぼくのりりっくのぼうよみ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "僕はもういない",
+      "artist": "Boku no Lyric no Boyomi",
+      "has_synced": true,
+      "path": "select/02_僕はもういない_Boku_no_Lyric_no_Boyomi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕はもういない",
+      "artist": "ぼくのりりっくのぼうよみ",
+      "has_synced": false,
+      "path": "select/pl_01_僕はもういない_ぼくのりりっくのぼうよみ.txt"
+    }
+  ]
+}
